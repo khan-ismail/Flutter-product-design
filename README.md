@@ -1,6 +1,6 @@
 # bh_flutter
 
-A new Flutter project.
+A Product Page with reusable code that help you to create product.
 
 ## Getting Started
 
